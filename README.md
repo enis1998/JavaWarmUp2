@@ -1,4 +1,4 @@
-## Week4-Homework
+## Second Homework
 # What is done in this project assignment:
 - Listed the customers with the letter 'C' in it.
 - Listed the total amount of invoices of customers who registered in June.
